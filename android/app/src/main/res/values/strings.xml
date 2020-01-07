@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">rnFirebaseTest</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">6g4_GekK31rgF7asojZzyK5mOUolMQIRnfJ5r</string>
 </resources>
