@@ -1,6 +1,8 @@
 import React, { useEffect } from 'react'
 import { View, Text, TouchableWithoutFeedback } from 'react-native'
 import analytics from '@react-native-firebase/analytics';
+import messaging from '@react-native-firebase/messaging';
+
 let count = 1;
 const HomeScreen = () => {
     async function onProductView() {
@@ -14,6 +16,7 @@ const HomeScreen = () => {
 
     useEffect(() => {
         trackScreenView('HomeScreen');
+        console.log(messaging.name)
     }, []);
 
     return (
