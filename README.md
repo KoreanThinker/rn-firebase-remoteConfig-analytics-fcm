@@ -7,5 +7,4 @@
 - [code-push](https://github.com/microsoft/react-native-code-push/tree/v6.0.0)
 - [appcenter(code-push를 위한 라이브러리)](https://docs.microsoft.com/en-us/appcenter/distribution/codepush/cli)
 - > appcenter codepush release-react -a coderhyun/codepushTest -d Staging
-  > 
--
+- [analytics참고자료](https://dev-yakuza.github.io/ko/react-native/react-native-firebase-analytics/)
