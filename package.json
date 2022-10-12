@@ -15,7 +15,7 @@
     "@react-native-firebase/messaging": "^6.2.0",
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "react-native-code-push": "^6.0.0"
+    "react-native-code-push": "^7.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
